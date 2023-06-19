@@ -26,3 +26,17 @@ technical_background:
 currently_learning: [Full-stack JS software development with Kanzu Code Foundation]
 2023 Goals: ["Create 7+ projects impactful projects"]
 ```
+```yaml
+* Some of the tools I am familiar with*
+
+            <i class="devicon-javascript-plain"></i>
+          
+            <i class="devicon-css3-plain colored"></i>
+          
+            <i class="devicon-html5-plain colored"></i>
+            
+            <i class="devicon-aftereffects-plain colored"></i>
+          
+            <i class="devicon-illustrator-plain colored"></i>
+          
+```
