@@ -27,7 +27,8 @@ currently_learning: [Full-stack JS software development with Kanzu Code Foundati
 2023 Goals: ["Create 7+ projects impactful projects"]
 ```
 ```yaml
-* Some of the tools I am familiar with*
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
 
             <i class="devicon-javascript-plain"></i>
           
